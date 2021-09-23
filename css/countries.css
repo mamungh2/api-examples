@@ -1,0 +1,11 @@
+#countriesDiv {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.country{
+    border: 2px solid mediumaquamarine;
+    margin: 10px;
+    padding:10px;
+    border-radius:10px;
+}
